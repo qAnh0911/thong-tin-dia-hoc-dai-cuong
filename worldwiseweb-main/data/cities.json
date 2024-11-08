@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "c157",
+      "cityName": "Hanoi",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-10-15T08:10:39.169Z",
+      "notes": "nice",
+      "position": {
+        "lat": "21.006583336685086",
+        "lng": "105.89066684872228"
+      }
+    },
+    {
+      "id": "aeb5",
+      "cityName": "Anaheim-Santa Ana-Garden Grove",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-10-15T09:05:01.845Z",
+      "notes": "",
+      "position": {
+        "lat": "33.791811597711536",
+        "lng": "-117.81517009248265"
+      }
+    }
+  ]
+}
